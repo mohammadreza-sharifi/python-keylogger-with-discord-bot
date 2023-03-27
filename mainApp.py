@@ -21,7 +21,7 @@ def disBot():
     async def hello(ctx):
         await ctx.send("hi from from first bot")  
         
-    client.run('OTY0MDI0NjUwODIyNzIxNTY2.GtIVb7.8N3abwrXcAunSNx67lWqEBM27aSfvQRRoY6_dk')
+    client.run('insert your api key')
 
 
 
